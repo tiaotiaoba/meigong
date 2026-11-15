@@ -1,0 +1,9 @@
+interface:
+  display_name: 实拍替换
+  short_description: 实拍主体替换、局部修改、背景版式锁定和细节保真。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  allow_implicit_invocation: true
